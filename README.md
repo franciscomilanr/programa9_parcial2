@@ -12,9 +12,9 @@
   <li> Entrada de datos con fgets </li>
   <li> Entrada de datos con leerf </li>
   <li> Entrada de datos con leerd </li>
-	 <li> Salida de datos con printf </li>
-	<li> Libreria stdio </li>
- 	<li>	Libreria string </li>
+ <li> Salida de datos con printf </li>
+<li> Libreria stdio </li>
+ <li>	Libreria string </li>
   <li> Variables locales </li>
   <li> Variables globales </li>
   <li> Uso de estructuras </li>
@@ -25,6 +25,7 @@
   <li> Funcion principal </li>
   <li> Funciones externas a main </li>
   <li> Asignacion de datos a una estructura </li>
+  <li> Uso de do while </li>
   <li> Retornar valor </li>
  </ul>
 <br>
